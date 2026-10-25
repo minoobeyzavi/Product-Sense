@@ -35,9 +35,9 @@ When evaluating a product or answering data science case interviews, metrics are
 * North Star / Primary Objective: The single metric that best captures the core value delivered to users (e.g., messages sent per day on WhatsApp, rides completed on Uber).
 * Guardrail / Counter Metrics: Metrics that must not get worse while you optimize the primary metric (e.g., if you push ad clicks, you monitor page load time and unsubscribe rates as guardrails).
 * Funnel / Lifecycle Metrics:
- * Growth & Activation: How many users sign up and reach their "aha!" moment.
- * Retention: Do users keep coming back (Day 1, Day 7, Day 30 retention curves)?
- * Engagement: Depth, frequency, and duration of use.
+  * Growth & Activation: How many users sign up and reach their "aha!" moment.
+  * Retention: Do users keep coming back (Day 1, Day 7, Day 30 retention curves)?
+  * Engagement: Depth, frequency, and duration of use.
 
 #### A Standard Framework for Product Sense / Data Case Questions
 
@@ -53,6 +53,7 @@ If you are preparing for an interview or working on a specific product problem, 
 * What specific question or scenario are you trying to solve?
 Build out the metric tree and statistical approach.
 
+#### Notes on Product Sense vs. Product Judgment
 
 TL;DR: Product sense means predicting which product decisions will succeed based on patterns learned through experimentation and knowing when those patterns apply.
 
@@ -70,7 +71,7 @@ In many ways though, product intuition is about mindset, perspective and 'feel'.
 
 Product Judgement (specific product and domain advocacy): This is what I believe is what the commenter and the article you shared is referring to - the how to make better products in a way that is independent from one's sense - but is strictly viewed in the lens of the specific customer problem, pain point and what they are actually paying you for.
 
-I think true product judgement can only be properly curated over time as a function of experience and exposure in a specific area. (You must understand your operating landscape)
+True product judgement can be properly curated over time as a function of experience and exposure in a specific area. You must understand your operating landscape.
 
 Ability to develop and build one's product judgement is a requirement to be anything more than a half-decent PM. Excellent PMs have a well built product judgement.
 
