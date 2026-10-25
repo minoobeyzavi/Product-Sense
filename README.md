@@ -35,9 +35,9 @@ When evaluating a product or answering data science case interviews, metrics are
 * North Star / Primary Objective: The single metric that best captures the core value delivered to users (e.g., messages sent per day on WhatsApp, rides completed on Uber).
 * Guardrail / Counter Metrics: Metrics that must not get worse while you optimize the primary metric (e.g., if you push ad clicks, you monitor page load time and unsubscribe rates as guardrails).
 * Funnel / Lifecycle Metrics:
-** Growth & Activation: How many users sign up and reach their "aha!" moment.
-** Retention: Do users keep coming back (Day 1, Day 7, Day 30 retention curves)?
-** Engagement: Depth, frequency, and duration of use.
+ * Growth & Activation: How many users sign up and reach their "aha!" moment.
+ * Retention: Do users keep coming back (Day 1, Day 7, Day 30 retention curves)?
+ * Engagement: Depth, frequency, and duration of use.
 
 #### A Standard Framework for Product Sense / Data Case Questions
 
